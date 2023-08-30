@@ -18,7 +18,7 @@
 - Use of a linear regression algorithm.
 - The algorithm is trained to predict the m2 of an estate given its type (business or private), neighbourhood (zip code), day of the estimate
 - 33% of the dataset is kept for testing
-- Accuracy of the model on test data: 96,76%.
+- Accuracy of the model on test data: 94,76%.
 
 #### Milestone 3 : Prediction for the Customer
 
